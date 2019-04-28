@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='ccopy',
-    version='0.1',
+    version='0.1.1',
     packages=['ccopy'],
     entry_points={
         'console_scripts': [
