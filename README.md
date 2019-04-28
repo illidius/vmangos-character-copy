@@ -16,5 +16,5 @@ sudo apt install python3 python3-pip
 
 ```bash
 sudo python3 setup.py install
-ccopy <</path/to/mangosd.conf>> <<Source character name>> <<Destination character name>>
+ccopy --conf <</path/to/mangosd.conf>> <<Source character name>> <<Destination character name>>
 ```
