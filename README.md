@@ -28,7 +28,7 @@ sudo python3 setup.py install
 Windows:
 
 Run a cmd or powershell as admin:
-```
+```bash
 python setup.py install
 ```
 
@@ -36,6 +36,6 @@ python setup.py install
 
 From a terminal (or cmd/powershell on Windows):
 
-```
+```bash
 ccopy --conf <</path/to/mangosd.conf>> <<Source character name>> <<Destination character name>>
 ```
