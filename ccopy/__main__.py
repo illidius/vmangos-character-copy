@@ -2,7 +2,7 @@ import argparse
 # import configparser
 import sys
 
-from .db import CharacterCopier
+from ccopy.db import CharacterCopier
 
 
 def main():
